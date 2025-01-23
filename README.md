@@ -1,1 +1,1 @@
-Personal project in VR - work in progress
+Personal project in VR developed in Unity - work in progress
